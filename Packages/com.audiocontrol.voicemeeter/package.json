@@ -1,0 +1,23 @@
+{
+  "name": "com.audiocontrol.voicemeeter",
+  "version": "1.0.0",
+  "displayName": "VoiceMeeter Audio Controller",
+  "description": "Unity 音频输出控制器，通过 VoiceMeeter 实现 A/B 模式切换（耳机/音箱）",
+  "unity": "2020.3",
+  "author": {
+    "name": "AudioControl"
+  },
+  "keywords": [
+    "audio",
+    "voicemeeter",
+    "output",
+    "routing"
+  ],
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "演示场景，包含测试 UI 和键盘控制",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
